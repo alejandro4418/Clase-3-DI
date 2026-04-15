@@ -1,0 +1,49 @@
+
+
+
+
+
+header{
+    border: 2px solid red;
+}
+
+section{
+    background-color: green;
+}
+
+.css{
+    background-color: pink;
+}
+
+#js{
+    background-color: yellow;
+}
+
+.hijo{
+    border: 2px solid blue;
+    color: red;
+    font-size: 20px
+}
+
+.bueno{
+    color: green;
+}
+
+.malvado{
+    color: black;
+}
+
+.bipolar{
+    color: orange;
+}
+
+.regalo{
+    text-align: center;
+    background-color: yellow;
+    border: 4px solid black;
+    padding: 40px;
+    margin: 60px;
+    border-radius: 10px;
+    width: 300px;
+    height: 50px;
+}
